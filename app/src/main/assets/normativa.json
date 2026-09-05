@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ley-10281-general",
+    "categoria": "Ley 10281",
+    "titulo": "Ley N° 10281 - Régimen de Seguridad Eléctrica de la Provincia de Córdoba",
+    "resumen": "Establece el régimen de Seguridad Eléctrica para la Provincia de Córdoba. Sancionada el 17/06/2015 por la Legislatura de Córdoba, con el objeto de preservar la seguridad de las personas, los bienes y el medio ambiente frente a los riesgos derivados de las instalaciones eléctricas.",
+    "articulos": [
+      "Objeto: preservar la seguridad de las personas, los bienes y el medio ambiente en relación con la generación, transporte, distribución y uso de la energía eléctrica.",
+      "Crea la figura del Instalador Electricista Habilitado (IEH), con Categoría I, Categoría II y Categoría III (idóneos), como único autorizado a certificar instalaciones eléctricas.",
+      "Designa al ERSeP (Ente Regulador de los Servicios Públicos de la Provincia de Córdoba) como Autoridad de Aplicación de la Ley.",
+      "El Certificado de Instalación Eléctrica Apta (CIEA) sólo puede ser emitido por un Instalador Electricista Habilitado con la incumbencia correspondiente a la categoría de la instalación.",
+      "Obliga a municipios, comunas y titulares de instalaciones de alumbrado público a adecuar sus instalaciones a la normativa dentro de los plazos fijados, acreditándolo mediante el certificado correspondiente.",
+      "Establece un régimen de infracciones y sanciones para el incumplimiento de la Ley y su reglamentación."
+    ],
+    "vigencia": "Sancionada el 17/06/2015. Entrada en vigencia plena a partir del 01/12/2017 para instalaciones nuevas o que se conecten al servicio a partir de esa fecha.",
+    "fuenteTitulo": "Texto de la Ley 10281 - Legislatura de Córdoba (vía Relevando Peligros)",
+    "fuenteUrl": "https://relevandopeligros.org/front/downloads/biblioteca/ley10281/Ley%20de%20Seguridad%20El%C3%A9ctrica.pdf"
+  },
+  {
+    "id": "decreto-1022-2015",
+    "categoria": "Decreto Reglamentario",
+    "titulo": "Decreto N° 1022/2015 - Reglamentación de la Ley 10281",
+    "resumen": "Decreto reglamentario de la Ley 10281 que define las tres categorías de Instalador Electricista Habilitado (I, II y III) y establece el funcionamiento del Registro de Instaladores Electricistas Habilitados a cargo del ERSeP.",
+    "articulos": [
+      "Categoría I: instalaciones de mayor complejidad (grandes potencias, media/alta tensión, industrias).",
+      "Categoría II: instalaciones domiciliarias y comerciales de menor complejidad.",
+      "Categoría III (idóneos): instaladores con formación técnica específica reconocida, habilitados para instalaciones de baja complejidad según lo defina la Autoridad de Aplicación.",
+      "Encomienda al ERSeP la reglamentación técnica de ejecución y verificación de instalaciones eléctricas, tomando como referencia la reglamentación de la Asociación Electrotécnica Argentina (AEA)."
+    ],
+    "vigencia": "Publicado en 2015, reglamenta la Ley 10281.",
+    "fuenteTitulo": "ERSeP - Seguridad Eléctrica",
+    "fuenteUrl": "https://ersep.cba.gov.ar/seguridad-electrica/"
+  },
+  {
+    "id": "registro-instaladores-ersep",
+    "categoria": "Resoluciones ERSeP",
+    "titulo": "Registro de Instaladores Electricistas Habilitados (ERSeP)",
+    "resumen": "A través de las Resoluciones Generales ERSeP N° 26/2015, 05/2016, 49/2016 y 08/2017 se creó el Registro de Instaladores Electricistas Habilitados, se definieron los contenidos curriculares de capacitación y se estableció la reglamentación técnica para la ejecución y verificación de instalaciones eléctricas en la Provincia de Córdoba.",
+    "articulos": [
+      "Todo instalador que desee emitir Certificados de Instalación Eléctrica Apta (CIEA) debe inscribirse en el Registro de Instaladores Electricistas Habilitados del ERSeP.",
+      "Se establecen los contenidos mínimos de capacitación exigidos para cada categoría de instalador.",
+      "Las verificaciones periódicas de instalaciones existentes deben ser realizadas por un Instalador Electricista Habilitado inscripto en el Registro."
+    ],
+    "vigencia": "Resoluciones dictadas entre 2015 y 2017.",
+    "fuenteTitulo": "ERSeP - Resoluciones Generales",
+    "fuenteUrl": "https://ersep.cba.gov.ar/seguridad-electrica/"
+  },
+  {
+    "id": "aea-90364-general",
+    "categoria": "AEA 90364",
+    "titulo": "AEA 90364 - Reglamentación para la ejecución de instalaciones eléctricas en inmuebles",
+    "resumen": "Reglamentación técnica de la Asociación Electrotécnica Argentina (AEA), publicada originalmente en 2006 y actualizada periódicamente, que define las normas y criterios básicos de diseño, ejecución y verificación de instalaciones eléctricas seguras en inmuebles. Está basada en la norma internacional IEC 60364, adaptada al uso y costumbres de Argentina. Es la base técnica que ERSeP toma como referencia para reglamentar la Ley 10281 en Córdoba.",
+    "articulos": [
+      "Parte 1: Objeto, campo de aplicación y principios fundamentales. Aplica a circuitos con tensión nominal de hasta 1000 V en corriente alterna y 1500 V en corriente continua.",
+      "Parte 4: Protecciones para preservar la seguridad (protección contra choques eléctricos, sobrecorrientes, sobretensiones, incendio).",
+      "Parte 6 (AEA 90364-6): Verificación inicial y periódica de las instalaciones eléctricas y su mantenimiento.",
+      "Parte 7: Reglas particulares para instalaciones en lugares y locales especiales (viviendas, oficinas, locales con riesgo de incendio o explosión, piletas, ascensores, etc.)."
+    ],
+    "vigencia": "Publicación inicial 2006, con actualizaciones periódicas de sus distintas partes (la última revisión de la Parte 6 es de 2025).",
+    "fuenteTitulo": "Asociación Electrotécnica Argentina (AEA) - Reglamentaciones",
+    "fuenteUrl": "https://aea.org.ar/wp-content/uploads/2017/10/90364-1-1.pdf"
+  },
+  {
+    "id": "certificado-ciea",
+    "categoria": "Trámites",
+    "titulo": "Certificado de Instalación Eléctrica Apta (CIEA)",
+    "resumen": "Documento que acredita que una instalación eléctrica cumple con la reglamentación técnica vigente (AEA 90364) y con la Ley 10281. Es exigido para nuevas conexiones de servicio eléctrico y para la venta/escrituración de inmuebles en la Provincia de Córdoba, según lo reglamentado por ERSeP y las distribuidoras (EPEC y cooperativas).",
+    "articulos": [
+      "Debe ser emitido y firmado por un Instalador Electricista Habilitado inscripto en el Registro del ERSeP, con la categoría correspondiente a la complejidad de la instalación.",
+      "Es requerido por la distribuidora de energía (EPEC o cooperativa) para habilitar una nueva conexión o reconexión del suministro eléctrico.",
+      "Las instalaciones existentes deben someterse a verificaciones periódicas para mantener vigente su condición de 'apta'."
+    ],
+    "vigencia": "Exigible desde la entrada en vigencia plena de la Ley 10281 (01/12/2017).",
+    "fuenteTitulo": "ERSeP - Seguridad Eléctrica",
+    "fuenteUrl": "https://ersep.cba.gov.ar/seguridad-electrica/"
+  }
+]
